@@ -1,0 +1,7 @@
+skeleton.png
+size:204,141
+filter:Linear,Linear
+pma:true
+RedFish
+bounds:2,2,200,137
+offsets:410,442,1024,1024
